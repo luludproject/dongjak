@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://best1.jianhomecare.com/sitemap.xml
